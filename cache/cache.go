@@ -1,7 +1,7 @@
 package cache
 
 import (
-	"learn-go-in-7days/cache/lru"
+	"cache/lru"
 	"sync"
 )
 
